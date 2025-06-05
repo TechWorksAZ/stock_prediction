@@ -1,0 +1,11 @@
+{
+  "install": "pip install -r requirements.txt",
+  "start": "",
+  "terminals": [
+    {
+      "name": "default",
+      "command": "echo 'Ready'",
+      "description": "Basic ready terminal"
+    }
+  ]
+} 
